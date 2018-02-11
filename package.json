@@ -1,0 +1,15 @@
+{
+  "name": "tcx-merge",
+  "version": "0.1.0",
+  "description": "Merge two .tcx files",
+  "main": "index.js",
+  "scripts": {
+    "merge": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ericgio",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
